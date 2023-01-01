@@ -1,0 +1,7 @@
+1> Configure MySQL in application.properties file.
+2> Create different packages
+3> Define JPA Entities such as Order & Payment in Entity package.
+4> Create JPA Repositories in Repository package,
+5> Create OrderRequest & orderResponse Dto classes
+6> Create Service Interfaces and Impl classes,
+7> Create OrderController class
