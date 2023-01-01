@@ -9,5 +9,4 @@ class SpringbootTransactionSystemApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
